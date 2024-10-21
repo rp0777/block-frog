@@ -3,9 +3,7 @@ const colors = {
   primary: "#FFE900",
   secondary: "#262626",
   newsTitle: "#FDEB00",
-  firstcoin: "#00FFED",
-  secondcoin: "#FF4600",
-  gridborder: "#12D9EA",
+  fadedHamburger: "#E0E0E0"
 };
 
 export default colors;
