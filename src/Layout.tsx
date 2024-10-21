@@ -4,7 +4,7 @@ import Footer from "./components/Footer/Footer";
 
 const Layout = ({ children }: { children: React.ReactNode }) => {
   return (
-    <div className=" bg-background">
+    <div className=" bg-background relative">
       <Navbar />
       <main>{children}</main>
       <Footer />

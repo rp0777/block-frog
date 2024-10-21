@@ -17,6 +17,9 @@ export default {
       backdropBlur: {
         '30': '30px',
       },
+      backgroundImage: {
+        'custom-gradient': 'linear-gradient(180deg, #000000 0%, #00000000 47%, #000000 100%)',
+      },
     },
   },
   plugins: [],
